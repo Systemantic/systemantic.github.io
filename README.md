@@ -18,7 +18,7 @@ You need to remove the git folder and initiating a new one
 
 ```bash
 $ cd node-sass-boilerplate
-$ rm -rm .git
+$ rm -rf .git
 $ git init
 ```
 
